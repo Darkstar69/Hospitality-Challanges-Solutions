@@ -32,7 +32,7 @@ A Network Operations Center (NOC) is the central hub for monitoring, managing, a
 - **Risk of Downtime:** Without a NOC, continuous monitoring of network and system health is absent, increasing the risk of unanticipated downtimes. A malfunctioning network could disrupt essential services, from online booking systems to internal communications, affecting guest experiences.
 - **Delayed Incident Response:** Without centralized monitoring, identifying and responding to outages or performance issues takes longer, potentially delaying resolutions and impacting services.
 
-#### 2. Cybersecurity Threats**
+#### 2. Cybersecurity Threats
 
 - **Increased Risk of Cyberattacks:** Without a NOC to monitor for suspicious activities, potential threats could go unnoticed. Attackers may exploit this absence, leading to data breaches that could expose guest and corporate information, damaging the hotel's reputation.
 - **Reduced Threat Detection:** Malicious activities, like distributed denial-of-service (DDoS) attacks or unauthorized access, could go undetected, putting the entire network at risk.
